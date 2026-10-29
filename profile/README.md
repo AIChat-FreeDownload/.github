@@ -29,7 +29,6 @@ Every free AI chat makes you pay in a different currency — accounts, phone num
 - **Fast native app** — no browser tabs, no reloading chats
 - **Private history** — stored on your machine
 
-
 <div align="center">
 
 ## Download
