@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AIChat-FreeDownload/.github/main/profile/banner.jpg" alt="AI chat free — unlimited, no sign up, PC launcher" width="100%">
-
 # AI Chat
 
 **A full-power AI chat on your PC. No sign up, no message limit, no nonsense.**
@@ -14,8 +12,6 @@
 </div>
 
 Every free AI chat makes you pay in a different currency — accounts, phone numbers, five-hour lockouts. This launcher skips all of it: open the app and talk to a frontier-class model about anything, for as long as you want.
-
-<img src="https://raw.githubusercontent.com/AIChat-FreeDownload/.github/main/profile/preview.jpg" alt="AI chat assistant on desktop" width="100%">
 
 ## One chat for everything
 
@@ -34,9 +30,6 @@ Every free AI chat makes you pay in a different currency — accounts, phone num
 - **Fast native app** — no browser tabs, no reloading chats
 - **Private history** — stored on your machine
 
-| <img src="https://raw.githubusercontent.com/AIChat-FreeDownload/.github/main/profile/shot2.jpg" alt="AI assistant helping with work"> | <img src="https://raw.githubusercontent.com/AIChat-FreeDownload/.github/main/profile/shot3.jpg" alt="AI chat on a home PC"> |
-| :---: | :---: |
-| *Work, finished faster* | *Always awake, never busy* |
 
 <div align="center">
 
