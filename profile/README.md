@@ -1,4 +1,4 @@
-<div align="center">
+<img align="right" src="https://raw.githubusercontent.com/AIChat-FreeDownload/.github/main/profile/off-ui1.jpg" alt="AI chat conversation" width="290">
 
 # AI Chat
 
@@ -9,19 +9,18 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20PC-0D9488?style=flat-square)
 ![Pack](https://img.shields.io/badge/Pack-~339%20MB-0D9488?style=flat-square)
 
-</div>
-
 Every free AI chat makes you pay in a different currency — accounts, phone numbers, five-hour lockouts. This launcher skips all of it: open the app and talk to a frontier-class model about anything, for as long as you want.
+
+| <img src="https://raw.githubusercontent.com/AIChat-FreeDownload/.github/main/profile/off-ui2.jpg" alt="Creating with AI chat" width="100%"> | <img src="https://raw.githubusercontent.com/AIChat-FreeDownload/.github/main/profile/off-ui3.jpg" alt="Quick answers in chat" width="100%"> |
+| :---: | :---: |
+| *Creating with AI chat* | *Quick answers in chat* |
+
+<p align="center"><sub>A real AI chat interface: talk, create and get answers in one window.</sub></p>
 
 ## One chat for everything
 
 | Ask it to | And it just does it |
 | --- | --- |
-| **Write** | Essays, resumes, stories, emails in your tone |
-| **Code** | Full programs, debugging, explanations line by line |
-| **Learn** | Any subject tutored at your level, with examples |
-| **Analyze** | Paste documents, data or screenshots — get answers |
-| **Plan** | Trips, workouts, businesses, weddings, anything with steps |
 
 ## Why people stay
 
